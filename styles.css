@@ -3,7 +3,10 @@
       scroll-behavior: smooth;
     }
 }
-
+   
+  p {
+    line-height: 1.5;
+  }
   body {
     background: #f5f6f7;
     color: #1b1b32;
